@@ -1,3 +1,9 @@
+### About
+
+Here in this project I have just started learning about NestJS for backend system. So in this small project I have learned some concepts like decorators, Controllers, Providors, services, etc. and performed practical to apply CRUD operations on the data which can be seen on Postman.
+
+
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
 </p>
